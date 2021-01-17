@@ -1,0 +1,5 @@
+Firstly, run to db. this command
+        -->json-server --watch db.json
+        
+Then run the project. 
+      --> npm start, yes
